@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorsPractice", "..\Name your project (e.g., LocatorsPractice) and click Create\LocatorsPractice.csproj", "{2A4509C8-E93E-43B8-BA3C-7A770A6AD860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4509C8-E93E-43B8-BA3C-7A770A6AD860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4509C8-E93E-43B8-BA3C-7A770A6AD860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4509C8-E93E-43B8-BA3C-7A770A6AD860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4509C8-E93E-43B8-BA3C-7A770A6AD860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02FE492F-897A-4FBE-BA26-5F612181173B}
+	EndGlobalSection
+EndGlobal
